@@ -1,0 +1,5 @@
+1. Create Github account or use existing
+2. Add SSH keys by instructions
+3. Create repo
+4. Create branch
+5. Commit any file to its remote
